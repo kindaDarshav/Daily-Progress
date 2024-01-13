@@ -1,3 +1,5 @@
-compleated video number 2 and 3
+today i copleted video number 2 of harry's python playlist.
+i learned what is data types.
 
-I learnt how to import a libarary
+
+added filex
